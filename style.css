@@ -162,6 +162,6 @@ p{
 
 @media (min-width:400px) {
   .card{
-    height: 70vh;
+    height: 700px;
   }
 }
