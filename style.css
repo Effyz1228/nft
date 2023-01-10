@@ -66,8 +66,8 @@
     background-color:var(--clr-neutral-800);
     border-radius: 10px;
     overflow: hidden;
-    max-width: 400px;
-    height: 82vh;
+    max-width: 375px;
+    max-height: 600px;
     
     display: grid;
     gap: 0.8rem;
@@ -160,8 +160,3 @@ p{
   color: var(--clr-primary-cyan);
 }
 
-@media (min-width:400px) {
-  .card{
-    height: 700px;
-  }
-}
